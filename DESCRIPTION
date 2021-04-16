@@ -1,0 +1,22 @@
+Package: mut
+Title: about multi functions in R
+Version: 0.0.9
+Authors@R: 
+    person(given = "mutter",
+           family = "Tsia",
+           role = c("aut", "cre"),
+           email = "tsiamut@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Depends: 
+    R (>= 4.0.0),
+    Ryacas, ggplot2
+Description: R language to achieve a number of skills of a series of functions summary.
+License: GPL-3
+language: english
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests:
+   testthat, 
+
